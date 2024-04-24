@@ -1,0 +1,132 @@
+@import url("//cdn.web-fonts.ge/fonts/bpg-square/css/bpg-square.min.css");
+  @import url("//cdn.web-fonts.ge/fonts/bpg-nino-mtavruli/css/bpg-nino-mtavruli.min.css");
+.container{
+    width: 1700px;
+    margin: 0 auto;
+ 
+}
+header{
+    margin-top: 20px;
+}
+a{
+    margin-left: 60px;
+    color: #4E6FAE;
+    font-family: FiraGO;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+     vertical-align: middle;
+}
+img{
+    vertical-align: middle;
+}
+
+.s-1{
+    margin-top: 40px;
+}
+.M{
+   background-color: #5012D5;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+
+.p26{
+    display: inline-block;
+    color: #84FF81;
+    font-family: Helvetica;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    padding: 10px;
+}
+.may{
+    margin-top: 9px;
+    color: #8D81FF;
+font-family: FiraGO;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.myp{
+    color: #4E6FAE;
+font-family: FiraGO;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.img1{
+    margin-top: 20px;
+ display: inline-block;
+ vertical-align: middle;
+}
+.bigp1{
+    color: #4E6FAE;
+    font-family: "BPG Square", sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 778px;
+margin-left: 66px;
+display: inline-block;
+vertical-align: middle;
+}
+ /* --------------------------------------------------------s-1-done--------------------- */
+.s-2{
+    margin-top: 40px;
+}
+
+.bigp2{
+    color: #4E6FAE;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 778px;
+margin-left: 66px;
+display: inline-block;
+vertical-align: top;
+margin-top: 18px;
+}
+.img2{
+    margin-top: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+/* -------------------------------------------------------------------s-2-done--------------- */
+
+.s-2{
+    margin-top: 40px;
+
+}
+.img3{
+    margin-top: 20px;
+}
+.bigp3{
+    color: #4E6FAE;
+font-family: FiraGO;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 20px;
+width: 1021px;
+}
+.M1{
+    margin-top: 40px;
+    background-color: #5012D5;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+footer{
+    margin-top: 40px;
+}
+.fb{
+    margin-right: 20px;
+}
